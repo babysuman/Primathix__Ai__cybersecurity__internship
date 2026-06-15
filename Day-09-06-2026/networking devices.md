@@ -72,7 +72,7 @@
 
 #### 5\. Gateways:
 
-###### &#x20;             > It is a hardware device or software node that acts as an entry/exit point between two distinct networks using different
+###### &#x20;             > It is a hardware device or software node that acts as an entry/exit point between two distinct networks using different    
 
 ###### &#x20;               protocols, translating data to ensure compatibility.
 
@@ -130,7 +130,7 @@
 |4.ordering|Arrives in the exact order they were sent.|Packets can arrive out of order.|
 |5.Error Checking|Extensive (lost packets are resent).|Minimal (drops corrupted packets without asking to resend).|
 |6.Broadcasting and multicasting|Does not support broadcasting or multicasting.|Supports broadcasting and multicasting.|
-|7. Use for |Applications where accuracy is critical and no data can be missing.|Time-sensitive applications.|
+|7. Use for|Applications where accuracy is critical and no data can be missing.|Time-sensitive applications.|
 |8.Example|Web browsing, emails, downloading files.|Live video streaming, online gaming.|
 
 

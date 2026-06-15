@@ -6,19 +6,19 @@
 
 ##### The Prompt:
 
-##### &#x20;         Imagine you are sitting at your laptop at home. You open your browser, type https://www.netflix.com, and press    
+##### &#x20;         Imagine you are sitting at your laptop at home. You open your browser, type https://www.netflix.com, and press
 
 ##### &#x20;         Enter.
 
 ##### 
 
-##### Ques) Write a 1-page detailed explanation of exactly what happens in the background, step-by-step, from the moment you press    
+##### Ques) Write a 1-page detailed explanation of exactly what happens in the background, step-by-step, from the moment you press
 
 ##### &#x20;     Enter to the moment the movie selection screen appears.
 
 
 
-##### Ans)When I sit at my laptop and type https://www.netflix.com into my web browser and press Enter, many things happen behind    
+##### Ans)When I sit at my laptop and type https://www.netflix.com into my web browser and press Enter, many things happen behind
 
 ##### the scenes before the Netflix movie selection screen appears.
 
@@ -36,7 +36,7 @@
 
 ###### &#x20;   > TLD(top level server):the request come to TLD server for .com and send request to who manage Netflix.com
 
-###### &#x20;   > Authoritative name server: the ISP asks to google public dns server and send IP address of www.netflic.com.
+###### &#x20;   > Authoritative name server: the ISP asks to google public dns server and send IP address of www.netflix.com.
 
 
 
@@ -80,9 +80,9 @@
 
 #### 5.Response:
 
-###### > The Netflix server processes the request and sends back an HTTP response.The server returns the status code:200 OK
+###### > The Netflix server processes the request and sends back an HTTP response. The server returns the status code:200 OK
 
-###### >200 OK means:The request was successful and the requested content is being sent to the browser.
+###### >200 OK means: The request was successful and the requested content is being sent to the browser.
 
 
 
@@ -97,10 +97,4 @@
 
 
 ##### 
-
-
-
-
-
-
 
