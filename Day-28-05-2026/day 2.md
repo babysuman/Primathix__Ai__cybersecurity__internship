@@ -91,7 +91,7 @@
 ##### 3\. Lab experiment login with password manager:
 
 
-
+<img width="773" height="442" alt="Screenshot 2026-05-29 122102" src="https://github.com/user-attachments/assets/8059232f-5614-4ebf-b97e-c56aaffa4247" />
 
 
 
@@ -112,7 +112,7 @@
 
 ##### 
 
-##### 
+ <img width="867" height="379" alt="Screenshot 2026-05-29 120124" src="https://github.com/user-attachments/assets/df694089-ec9a-4252-a5bb-d6806302a271" />
 
 ##### 
 

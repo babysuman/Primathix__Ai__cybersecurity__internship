@@ -26,3 +26,4 @@
 
 ###### &#x20;           > port 8443/tcp is opened and providing https-alt.     
 
+<img width="835" height="721" alt="Screenshot_2026-06-12_02_21_04" src="https://github.com/user-attachments/assets/45437bb7-14c8-4601-9b2e-c6b46821b869" />
