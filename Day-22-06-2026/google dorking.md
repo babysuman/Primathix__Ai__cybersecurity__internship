@@ -1,3 +1,4 @@
+
 ## \# Google dorking:
 
 ##### &#x20;  1. site:
@@ -103,7 +104,7 @@
 |username(admin\_login)|password(admin\_password)|
 |-|-|
 |admin|21232f297a57a5a743894a0e4a801fc3|
-
+<img width="558" height="808" alt="Screenshot 2026-06-23 114522" src="https://github.com/user-attachments/assets/58482568-7250-4fe2-a19a-5a06b017f8c4" />
 
 
 ##### 
@@ -114,11 +115,11 @@
 
 ###### &#x20;  Ans)ip address- 2a00:1230::5049:602c
 
-
-
+<img width="727" height="215" alt="Screenshot 2026-06-23 104210" src="https://github.com/user-attachments/assets/0707b716-913b-4915-a674-5948334b1df9" />
 
 
 ##### &#x20;3) find confidential file .
+<img width="365" height="442" alt="Screenshot 2026-06-24 123528" src="https://github.com/user-attachments/assets/9e81032b-0738-4ee1-91a9-809ef03f269c" />
 
 ###### Ans)site:"mit.edu" filetype:pdf "confidential" OR "internal use only"
 
