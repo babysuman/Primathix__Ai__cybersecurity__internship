@@ -10,6 +10,7 @@
 
 ###### &#x20;    23	            Telnet	                   Remote login (unencrypted, considered insecure).
 
+
 ###### &#x20;    25   	     SMTP	                   Sending email between mail servers.
 
 ###### &#x20;    53	             DNS	                   Converts domain names (google.com) into IP addresses.
@@ -52,8 +53,11 @@
 
 ###### &#x20;    8180	   HTTP (alternate)	           Alternate web server port.
 
+ports
+<img width="1918" height="878" alt="Screenshot_2026-06-24_02_09_26" src="https://github.com/user-attachments/assets/61db7776-a215-4adb-afcb-645a3c48f819" />
 
-
+ services version
+<img width="1918" height="878" alt="Screenshot_2026-06-24_02_40_42" src="https://github.com/user-attachments/assets/7415a3c6-2d5b-4dea-8a0a-93bc5d8631e3" />
 
 
 
